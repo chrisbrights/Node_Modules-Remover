@@ -9,4 +9,5 @@ python remove.py --folder="D:\source\EthereumWorks"
 ```
 Use `--folder` option if you want to set target directory.
 
+If you omit it, it will set as default "./" 😀
 
